@@ -1,4 +1,4 @@
-# 선택정렬 Selection Sort 알고리즘
+# 선택 정렬 Selection Sort 알고리즘
 
 제자리 정렬 알고리즘의 하나
 
@@ -25,7 +25,7 @@
 | 1 | 3 | 4 | 6 | 9 |
 |---|---|---|---|---|
 
-# 버블 정렬 python 코드
+# 선택 정렬 python 코드
 
 ```python
 def selectionSort(x):
@@ -37,7 +37,7 @@ def selectionSort(x):
 	return x
 ```
 
-# 선택정렬 특징
+# 선택 정렬 특징
 
 * 장점
     
